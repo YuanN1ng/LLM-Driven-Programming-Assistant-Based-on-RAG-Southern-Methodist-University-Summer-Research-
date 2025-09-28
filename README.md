@@ -1,5 +1,7 @@
 LLM-Driven Programming Assistant Based on Retrieval-Augmented Generation
+
 Summer Research at Southern Methodist University, Advisor: Prof. Xihao Xie
+
 Jul 2025 – Aug 2025
 
 
